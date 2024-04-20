@@ -10,7 +10,14 @@
 <!--Intro start-->
 
 <p align="left">
-Soy un amante de la tecnología y un entusiasta del código. Me considero un programador Full Stack con una pasión por construir cosas geniales desde cero. Desde el diseño de interfaces de usuario hasta la configuración del servidor, me encanta meterme en cada aspecto del desarrollo web. Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer.
+
+💻 Desarrollador entusiasta.
+🌱 Siempre aprendiendo y creciendo en el mundo de la programación.
+🚀 Apasionado por crear software que tenga un impacto positivo.
+🎨 Amante del diseño y la creatividad en el desarrollo de aplicaciones.
+📚 Compartiendo conocimientos y aprendiendo de la comunidad.
+🔧 Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.
+
 <!--Intro end-->
   </p>
 <br>
