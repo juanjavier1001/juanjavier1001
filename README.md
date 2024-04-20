@@ -19,7 +19,7 @@ Soy un amante de la tecnología y un entusiasta del código. Me considero un pro
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,css,js,react,nextjs,vue,nodejs,express,php,laravel,mysql,firebase,git,github,postman,bootstrap,vscode" />
   </a>
 </p>
 <br>
