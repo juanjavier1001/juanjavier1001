@@ -11,12 +11,12 @@
 
 <p align="left">
 
-💻 Desarrollador entusiasta.
-🌱 Siempre aprendiendo y creciendo en el mundo de la programación.
-🚀 Apasionado por crear software que tenga un impacto positivo.
-🎨 Amante del diseño y la creatividad en el desarrollo de aplicaciones.
-📚 Compartiendo conocimientos y aprendiendo de la comunidad.
-🔧 Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.
+#### 💻 Desarrollador entusiasta.
+#### 🌱 Siempre aprendiendo y creciendo en el mundo de la programación.
+#### 🚀 Apasionado por crear software que tenga un impacto positivo.
+#### 🎨 Amante del diseño y la creatividad en el desarrollo de aplicaciones.
+#### 📚 Compartiendo conocimientos y aprendiendo de la comunidad.
+#### 🔧 Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.
 
 <!--Intro end-->
   </p>
