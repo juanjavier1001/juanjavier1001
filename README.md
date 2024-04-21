@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,css,js,react,nextjs,vue,nodejs,express,php,laravel,mysql,firebase,git,github,postman,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nodejs,express,php,laravel,mysql,firebase,git,github,postman,bootstrap,vscode" />
   </a>
 </p>
 <br>
